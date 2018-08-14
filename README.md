@@ -19,7 +19,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.xingling1122:SimpleImmersion:1.0'
+	        implementation 'com.github.xingling1122:SimpleImmersion:1.1'
 	}
   
  maven:
@@ -40,5 +40,5 @@ Step 2. Add the dependency
 	<dependency>
 	    <groupId>com.github.xingling1122</groupId>
 	    <artifactId>SimpleImmersion</artifactId>
-	    <version>1.0</version>
+	    <version>1.1</version>
 	</dependency>
